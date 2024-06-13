@@ -6,5 +6,5 @@
 
 .section-container{
     @apply max-w-screen-2xl container mx-auto xl:px-20 px-4;
-    /* background-color: #e6e4e4; */
+    /* background-color: #6d6f70; */
 }

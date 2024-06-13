@@ -1,14 +1,14 @@
 import React from 'react'
 import Hero from '../../components/hero/Hero'
 import Banner from '../../components/banner/Banner'
-import Testimonials from '../../components/testimonials/Testimonials'
+import Reviews from '../../components/reviews/Reviews'
 
 const Home = () => {
   return (
     <div>
       <Hero/>
       <Banner/>
-      <Testimonials/>
+      <Reviews/>
     </div>
   )
 }
